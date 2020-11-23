@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a568838-5561-4e49-9305-cbb1f2509762" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jQn3ncfP4O8PKFg8L1v7zYmyFS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test Automation Framework" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="HomeWork6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HomeWork6Test.addToCartTest">
+    <configuration name="HomeWork5ChromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeWork" />
+      <option name="PACKAGE_NAME" value="HomeWork5" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork5.HomeWork5ChromeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork5ChromeTest.glossUa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeWork" />
+      <option name="PACKAGE_NAME" value="HomeWork5" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork5.HomeWork5ChromeTest" />
+      <option name="METHOD_NAME" value="glossUa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork5FireFoxTest.fireFoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeWork" />
+      <option name="PACKAGE_NAME" value="HomeWork5" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork5.HomeWork5FireFoxTest" />
+      <option name="METHOD_NAME" value="fireFoxTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork6Test.addToCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeWork" />
+      <option name="PACKAGE_NAME" value="HomeWork6" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork6.HomeWork6Test" />
+      <option name="METHOD_NAME" value="addToCartTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork6Test.camileoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeWork" />
+      <option name="PACKAGE_NAME" value="HomeWork6" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork6.HomeWork6Test" />
+      <option name="METHOD_NAME" value="camileoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HomeWork6Test.addToCartTest" />
+        <item itemvalue="JUnit.HomeWork6Test.camileoTest" />
+        <item itemvalue="JUnit.HomeWork5ChromeTest.glossUa" />
+        <item itemvalue="JUnit.HomeWork5ChromeTest" />
+        <item itemvalue="JUnit.HomeWork5FireFoxTest.fireFoxTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a568838-5561-4e49-9305-cbb1f2509762" name="Default Changelist" comment="" />
+      <created>1603744986216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603744986216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="482" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603917544377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1603917544377" />
+    <state x="1048" y="158" key="#xdebugger.evaluate" timestamp="1604495286293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1048" y="158" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1604495286293" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1605466627374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605466627374" />
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1605466629546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605466629546" />
+    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1605466629546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605466629546" />
+    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1605466629546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605466629546" />
+    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1605466629546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605466629546" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605378606556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605378606556" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1605378606556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605378606556" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1605378606556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605378606556" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1605378606556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605378606556" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1605453489508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1605453489508" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1603895105299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603895105299" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1605451069082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605451069082" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/HomeWork5/HomeWork5ChromeTest.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/HomeWork5/HomeWork5ChromeTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="subtotal.getText()0" language="JAVA" />
+        <watch expression="Assert.assertEquals(&quot;￥610.00&quot;, subtotal.getText())" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
